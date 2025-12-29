@@ -78,21 +78,13 @@ I build production-ready backends with **FastAPI**, design **RAG** pipelines and
 - 🥉 **Campus & Institute Bronze Medals** (AI)
 - 🔧 **FreightPower AI** — End-to-end logistics automation (LangChain, RAG, FastAPI)
 - 💬 **Real-time Chat App** — Multi-user streaming chat (FastAPI + WebSockets)
-- 🤖 **Robot Simulator** — Gazebo-based mobile robot with LIDAR & control algorithms
-
-*(Add repo links under each project for direct navigation.)*
 
 ---
 
-## GitHub Stats
-
-> ✅ Make sure your GitHub username is `Hammadwakeel` (used below). If your username is different, replace `Hammadwakeel` in the URLs with your correct username.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammadwakeel&theme=dark&show_icons=true&include_all_commits=false&count_private=false)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadwakeel&layout=compact&theme=dark)
-<br/>
-![Streak](https://github-profile-trophy.vercel.app/?username=Hammadwakeel&theme=dark&no-frame=true&margin-w=10)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hammadwakeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hammadwakeel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadwakeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -101,7 +93,3 @@ I build production-ready backends with **FastAPI**, design **RAG** pipelines and
 
 ---
 
-### Visitor count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Hammadwakeel&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
