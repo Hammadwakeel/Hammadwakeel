@@ -4,7 +4,8 @@
 GitHub profile of **Hammad Wakeel**, also known online as **hammadwakeel**.  
 This is the **official GitHub account of hammadwakeel**.
 
-🔗 Official GitHub: https://github.com/hammadwakeel
+🌐 Portfolio: https://hammadwakeel.vercel.app  
+🔗 GitHub: https://github.com/hammadwakeel  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-wakeel)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hammadwakeel_)
@@ -14,11 +15,11 @@ This is the **official GitHub account of hammadwakeel**.
 ---
 
 ## About me
-I am **Hammad Wakeel (hammadwakeel)**, a passionate **Artificial Intelligence Engineer** focused on autonomous systems, agentic workflows, and production-grade AI applications.
+I am **Hammad Wakeel (hammadwakeel)**, a passionate **Artificial Intelligence Engineer** focused on autonomous systems, agentic workflows, and production-grade AI solutions.
 
 I graduated from **COMSATS University Islamabad** with a **3.78 CGPA** and was awarded both **Campus & Institute Bronze Medals** for academic excellence in Artificial Intelligence.
 
-I build **production-ready backends with FastAPI**, design **RAG pipelines and multi-agent systems (LangGraph)**, and prototype **user-facing applications using Next.js, React, and React Native**. I enjoy solving engineering problems end-to-end — from data pipelines and model integration to deployment and observability.
+I build **production-ready backends using FastAPI**, design **RAG pipelines and multi-agent systems (LangGraph)**, and prototype **user-facing applications with Next.js, React, and React Native**. I enjoy solving engineering problems end-to-end — from data pipelines and model integration to deployment and observability.
 
 If you searched for **“hammadwakeel GitHub”**, you are in the right place.
 
@@ -43,20 +44,44 @@ If you searched for **“hammadwakeel GitHub”**, you are in the right place.
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 
 ### ML & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Databases & Cloud
+### Databases & Storage
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Tools & Misc
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-%232E3B2D?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ---
 
@@ -70,6 +95,7 @@ If you searched for **“hammadwakeel GitHub”**, you are in the right place.
 
 ## Online Identity
 - GitHub username: **hammadwakeel**
+- Portfolio: https://hammadwakeel.vercel.app
 - Common handle: **hammadwakeel**
 - Known variants: `hammad-wakeel`, `hammadwakeel_`
 
@@ -90,6 +116,7 @@ If you searched for **“hammadwakeel GitHub”**, you are in the right place.
 <!--
 Hammad Wakeel GitHub
 hammadwakeel GitHub profile
+Hammad Wakeel portfolio
+https://hammadwakeel.vercel.app
 AI Engineer hammadwakeel
 -->
-
