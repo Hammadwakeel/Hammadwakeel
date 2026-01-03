@@ -95,7 +95,7 @@ If you searched for **“hammadwakeel GitHub”**, you are in the right place.
 
 ## Online Identity
 - GitHub username: **hammadwakeel**
-- Portfolio: https://hammadwakeel.vercel.app
+- Portfolio website: https://hammadwakeel.vercel.app
 - Common handle: **hammadwakeel**
 - Known variants: `hammad-wakeel`, `hammadwakeel_`
 
